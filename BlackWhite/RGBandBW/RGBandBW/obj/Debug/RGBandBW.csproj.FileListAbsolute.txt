@@ -1,0 +1,10 @@
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\bin\Debug\RGBandBW.exe.config
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\bin\Debug\RGBandBW.exe
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\bin\Debug\RGBandBW.pdb
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.csprojAssemblyReference.cache
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.Form1.resources
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.Properties.Resources.resources
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.csproj.GenerateResource.cache
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.csproj.CoreCompileInputs.cache
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.exe
+C:\Users\arsidex\Desktop\TestNEWWork\BlackWhite\RGBandBW\RGBandBW\obj\Debug\RGBandBW.pdb
